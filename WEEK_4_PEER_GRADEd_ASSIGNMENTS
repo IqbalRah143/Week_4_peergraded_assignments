@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Pyolite",
+      "language": "python"
+    },
+    "language_info": {
+      "name": ""
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "<center>\n    <img src=\"https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2/images/SN_web_lightmode.png\" width=\"300\" alt=\"cognitiveclass.ai logo\">\n</center>\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# My Jupyter Notebook on IBM Watson Studio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**mohd iqbal ahmad**\ndata analyst",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I am interested in data science because I think it is the sexiest profession in the 21st century*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "# the code in cell 5 should do subtraction of 1 from 5",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "5-1 ",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 1,
+      "outputs": [
+        {
+          "execution_count": 1,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "4"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "-  data science is interesting\n1. data analytics is fun\n***",
+      "metadata": {}
+    }
+  ]
+}
